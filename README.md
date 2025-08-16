@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jyothi Kumar Dummala
-## Software Engineer | AI & Full-Stack Developer | Gaming Enthusiast
+## Software Engineer | AI & Full-Stack Developer | GenAI Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothikumar03&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikumar03" /> </p>
 
