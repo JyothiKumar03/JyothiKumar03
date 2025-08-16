@@ -86,24 +86,65 @@ JavaScript/TypeScript, Python, Java, C/C++, SQL
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothikumar03&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jyothikumar03&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=jyothikumar03&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothikumar03&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
-![Activity Graph](https://ssr-contributions-svg.vercel.app/_/JyothiKumar03?format=svg&weeks=53&year=2024&theme=green&dark=false)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyothikumar03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothikumar03&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
+</div>
+
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com/?user=jyothikumar03&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothikumar03&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+
+## ⚡ Development Stats
+
+<div align="center">
+
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyothikumar03&theme=tokyonight)
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyothikumar03&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyothikumar03&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyothikumar03&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyothikumar03&theme=tokyonight&utcOffset=5.5" />
+</div>
+
+## 🎯 Profile Metrics
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=jyothikumar03&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/jyothikumar03?color=blue&style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/jyothikumar03?color=yellow&style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
 <p align="center">
   <i>"Real problems, real impact. Building the future one line of code at a time."</i>
-</p>
+</p></p>
