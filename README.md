@@ -80,12 +80,6 @@ def my_engineering_philosophy():
 
 <div align="center">
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Jyothi%20Kumar%20Dummala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20×%20Builder%20×%20Shipped%20not%20Showcased&descAlignY=60&descSize=17&descColor=F3F4F6&color=0:000000,25:0F0F0F,55:3B0000,80:7F1D1D,100:DC2626"
-/>
-
-</div>
-
 ---
 
 <div align="center">
