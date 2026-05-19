@@ -1,150 +1,100 @@
-# Hi 👋, I'm Jyothi Kumar Dummala
-## Software Engineer | AI & Full-Stack Developer | GenAI Enthusiast
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothikumar03&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikumar03" /> </p>
-
-**🚀 Currently**: Software Engineer at ProdGain, architecting AI-powered MERN applications and optimizing LLM performance by 70%+
-
-**🎯 Mission**: Bridging AI innovation with full-stack development, with growing interest in democratizing game development
-
----
-
-## ⚡ Quick Wins
-- **🤖 AI Performance**: Improved LLM accuracy by 70%+ through advanced prompting, RAG optimization, and fine-tuning
-- **📈 Query Efficiency**: Enhanced RAG performance by 30% via semantic query optimization  
-- **💰 Cost Intelligence**: Built cost-aware chat systems with real-time spend tracking
-- **🔍 Smart Automation**: Created PDF input validation that eliminated support tickets
-- **👥 Leadership**: Active in hiring, knowledge transfer, and product architecture
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-**AI & Machine Learning**
-```
-LLMs: OpenAI, Anthropic (Claude), Google Gemini, DeepSeek
-AI Techniques: RAG, Fine-tuning, Context Management, Prompt Engineering
-Frameworks: Custom eval frameworks, semantic search optimization
-```
-
-**Full-Stack Development** 
-```
-Frontend: React.js, Next.js, TypeScript, HTML5, CSS3, Bootstrap, TailwindCSS
-Backend: Node.js, Express.js, RESTful APIs, WebSockets
-Databases: MongoDB, MySQL, SQL optimization
-```
-
-**Cloud & DevOps**
-```
-AWS: Lambda, API Gateway, DynamoDB, S3, DNS services
-Tools: Git, GitHub, Docker, Kubernetes, Jenkins
-```
-
-**Programming Languages**
-```
-JavaScript/TypeScript, Python, Java, C/C++, SQL
-```
-
----
-
-## 🎮 Notable Projects
-
-**🤖 Prescription AI Webapp** - MERN + Gemini Vision model for medical text extraction  
-**📊 AWS DNS Dashboard** - Real-time monitoring with CRUD operations  
-**📝 Blog App** - Full-featured MERN stack application with JWT authentication  
-**👟 Shoe Store Clone** - Responsive e-commerce UI with React & TailwindCSS  
-**⚔️ SAMURAI SIMULATOR** - Dual-player browser game with vanilla JavaScript  
-
----
-
-## 💼 Professional Journey
-
-**Software Engineer @ ProdGain** (Jun 2024 - Present)
-- Full-stack MERN development with integrated AI capabilities
-- Multi-LLM provider integrations and performance optimization
-- End-to-end feature ownership from design to deployment
-- Cross-functional collaboration in hiring and product architecture
-
-**Previous**: Software Developer Intern @ ADP | Full Stack Engineer @ Brainlox | R&D Intern @ KMIT-Teleparidigm
-
----
-
-## 🎯 What Drives Me
-
-- **Problem-First Thinking**: I don't just code - I identify gaps, map client needs, and own solutions end-to-end
-- **Startup Velocity**: Thrived in early-stage environments with "all hands on deck" mentality
-- **Bridge Builder**: Connecting product vision with production code, technical depth with business impact
-- **Curious Explorer**: Currently fascinated by game development democratization and AI's role in creative tools
-
----
-
-## 📫 Let's Connect
-- **Email**: jyothikumardummala@gmail.com
-- **LinkedIn**: [Jyothi Kumar D](https://www.linkedin.com/in/jyothi-kumar-d-05b323217/)
-- **Instagram**: [@djkumar_007](https://instagram.com/djkumar_007)
-- **Location**: Hyderabad, India | Open to Remote | Open to Relocate
-
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=jyothikumar03&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Jyothi%20Kumar%20Dummala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20×%20Builder%20×%20Shipped%20not%20Showcased&descAlignY=60&descSize=17&descColor=F3F4F6&color=0:000000,25:0F0F0F,55:3B0000,80:7F1D1D,100:DC2626"
+/>
 
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyothikumar03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothikumar03&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
-</div>
-
-<div align="center">
-
-![Streak Stats](https://streak-stats.demolab.com/?user=jyothikumar03&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothikumar03&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
-
-## ⚡ Development Stats
-
-<div align="center">
-
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyothikumar03&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyothikumar03&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyothikumar03&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyothikumar03&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyothikumar03&theme=tokyonight&utcOffset=5.5" />
-</div>
-
-## 🎯 Profile Metrics
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=jyothikumar03&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/jyothikumar03?color=blue&style=for-the-badge&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/jyothikumar03?color=yellow&style=for-the-badge&logo=github)
+[![Portfolio](https://img.shields.io/badge/⚡_jk--ai.in-000000?style=for-the-badge&logoColor=white)](https://jk-ai.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyothikumardummala)
+[![Email](https://img.shields.io/badge/jyothikumardummala@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyothikumardummala@gmail.com)
+[![npm](https://img.shields.io/badge/npm-unified--llm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/unified-llm)
 
 </div>
 
 ---
 
-<p align="center">
-  <i>"Real problems, real impact. Building the future one line of code at a time."</i>
-</p></p>
+```yaml
+name       : Jyothi Kumar Dummala
+location   : Hyderabad, India
+role       : AI Engineer — IC + Team Lead
+obsession  : Production AI. Not demos. Not notebooks. Real systems, real users.
+currently  : Building things worth talking about → jk-ai.in
+```
+
+---
+
+## What I Actually Build
+
+Not a list of buzzwords. Here's what I've shipped:
+
+- **unified-llm** — open-source npm package for multi-provider LLM integration with intelligent routing, fallback chains, and cost control. One interface, every model.
+- **Voice AI Agents** — Bolna-based voice agents for real conversational workflows. Not a chatbot. A system that talks back.
+- **Production RAG Pipelines** — end-to-end retrieval systems with hybrid search, re-ranking, semantic caching, and observability. Built to degrade gracefully, not crash silently.
+- **Agentic Workflows** — LangGraph-based multi-step agents with logging, eval loops, and self-improving feedback. The kind that actually run in production.
+- **AI-native Customer Platforms** — KB → Web fallback → Ticket escalation pipelines with confidence scoring and KB feedback loops.
+
+> *If it doesn't run in production, it didn't happen.*
+
+---
+
+## Arsenal
+
+<div align="center">
+
+| AI / Agents | Backend | Frontend | Infra & Data |
+|:-:|:-:|:-:|:-:|
+| LangChain / LangGraph | Python / FastAPI | React / Next.js | PostgreSQL / pgvector |
+| OpenAI / Anthropic / Gemini | Node.js / Express | TypeScript | Redis / ElastiCache |
+| RAG · Hybrid Search · Re-ranking | REST / WebSockets | Tailwind CSS | Pinecone / Milvus |
+| Voice AI (Bolna / Twilio) | Docker | — | AWS (ECS, S3, RDS) |
+| Prompt Engineering / Evals | Temporal | — | MongoDB / Supabase |
+
+</div>
+
+---
+
+## How I Think
+
+```python
+def my_engineering_philosophy():
+    principles = [
+        "Understand the business problem before writing a single line",
+        "AI systems that can't fail gracefully shouldn't be in production",
+        "Semantic caching > throwing more GPUs at latency",
+        "The real moat is knowing why the code exists, not just writing it",
+        "Ship → measure → improve. Repeat until it stops breaking."
+    ]
+    return principles
+```
+
+---
+
+## At a Glance
+
+<div align="center">
+
+`~2 years` shipping production AI · `IC + Lead` experience · `Full-stack` across Python, Node, React · `Open source` contributor · `Agents, RAG, Voice AI` in production
+
+</div>
+
+<div align="center">
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Jyothi%20Kumar%20Dummala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20×%20Builder%20×%20Shipped%20not%20Showcased&descAlignY=60&descSize=17&descColor=F3F4F6&color=0:000000,25:0F0F0F,55:3B0000,80:7F1D1D,100:DC2626"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+**I own AI systems end to end. From architecture to production to the 3am alert.**
+
+*See what I've built →* **[jk-ai.in](https://jk-ai.in)**
+
+</div>
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:0F0F0F,55:3B0000,80:7F1D1D,100:DC2626"
+/>
